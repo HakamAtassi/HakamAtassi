@@ -9,11 +9,21 @@
 
 I'm a Computer Engineering student out of Toronto, Ontario, currently studying at McMaster University. I'm highly interested in academia and spend much of my time reading textbooks on content I find interesting and would like to build on. Many of my repositories consist of projects I've built using knowledge from the various textbooks I've picked up over the years. For examples, take a look at my pinned repositories! 
 
-Skills: Verilog / C++ / C / Python
+
+<hr />
+What I'm up to:
 
 - 🔭 I’m currently working on a behavioral model of a cached, pipelined MIPS core 
-- 📫 How to reach me: atassih@mcmaster.ca 
-- 
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+
+<p align="center">
+    <img width="30px" margin-right="50px" src="https://img.icons8.com/fluency/344/email-open.png" />
+    <img width="30px" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-portfolio-seo-and-marketing-nawicon-outline-color-nawicon.png" />
+    <img width="30px" src="https://img.icons8.com/color/344/linkedin-2--v1.png" />
+</p>
 
 

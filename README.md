@@ -15,10 +15,6 @@ What I'm up to:
 
 - 🔭 I’m currently working on a behavioral model of a cached, pipelined MIPS core 
 
-<br/><br/>
-<br/><br/>
-<br/><br/>
-
 
 <p align="center">
     <img width="30px" margin-right="50px" src="https://img.icons8.com/fluency/344/email-open.png" />

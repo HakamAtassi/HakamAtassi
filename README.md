@@ -16,10 +16,9 @@ What I'm up to:
 - 🔭 I’m currently working on a behavioral model of a cached, pipelined MIPS core 
 
 <hr />
-<p align="center">
-    <img width="30px" margin-right="50px" src="https://img.icons8.com/fluency/344/email-open.png" />
-    <img width="30px" src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-portfolio-seo-and-marketing-nawicon-outline-color-nawicon.png" />
-    <img width="30px" src="https://img.icons8.com/color/344/linkedin-2--v1.png" />
-</p>
 
+### Reach me:
 
+Email: atassih@mcmaster.ca <br/>
+Portifolio: www.hakamatassi.com <br/>
+LinkedIn: https://www.linkedin.com/in/atassih/

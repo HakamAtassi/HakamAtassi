@@ -17,8 +17,12 @@ What I'm up to:
 
 <hr />
 
-### Reach me:
 
-Email: atassih@mcmaster.ca <br/>
-Portifolio: www.hakamatassi.com <br/>
-LinkedIn: https://www.linkedin.com/in/atassih/
+<br/>
+
+
+<p align="center">  <a href="https://linkedin.com/in/atassih" target="blank"><img src="https://img.icons8.com/fluency/344/email-open.png" height="30" /></a>
+  <a href="mailto: atassih@mcmaster.ca" target="blank"><img src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-portfolio-seo-and-marketing-nawicon-outline-color-nawicon.png" height="30" /></a>  
+ <a href="mailto: atassih@mcmaster.ca" target="blank"><img src="https://img.icons8.com/color/344/linkedin-2--v1.png" height="30" /></a></p>
+
+

@@ -13,7 +13,7 @@ I'm a Computer Engineering student out of Toronto, Ontario, currently studying a
 
 What I'm up to:
 
-- 🔭 I’m currently working on a synthesizable model of a pipelined MIPS core. 
+- 🔭 I'm currently working on an implementing the JPEG algorithm in C++
 
 <hr />
 

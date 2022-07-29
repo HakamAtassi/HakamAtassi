@@ -9,11 +9,7 @@
 
 I'm a Computer Engineering student out of Toronto, Ontario, currently studying at McMaster University. I'm highly interested in academia and spend much of my time reading textbooks on content I find interesting and would like to build on. Many of my repositories consist of projects I've built using knowledge from the various textbooks I've picked up over the years. For examples, take a look at my pinned repositories! 
 
-<br/>
 
-What I'm up to:
-
-- 🔭 I'm currently working on an implementing the JPEG algorithm in C++
 
 <hr />
 

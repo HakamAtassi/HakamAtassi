@@ -7,7 +7,10 @@
 ![hdl_banner](https://img.shields.io/badge/Verilog-%2300599C.svg?style=for-the-badge&logo=%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-I'm a Computer Engineering student out of Toronto, Ontario, currently studying at McMaster University. I'm highly interested in academia and spend much of my time reading textbooks on content I find interesting and would like to build on. Many of my repositories consist of projects I've built using knowledge from the various textbooks I've picked up over the years. For examples, take a look at my pinned repositories! 
+I'm a Computer Engineering student out of Toronto, Ontario, currently studying at McMaster University. 
+
+
+I'm a Computer Engineering student out of Toronto, Ontario, currently studying at McMaster University. I'm highly interested in academia and spend much of my time reading textbooks on content I find interesting. Many of my repositories consist of projects I've built using knowledge from the various textbooks I've picked up over the years. For examples, take a look at my pinned repositories! 
 
 
 

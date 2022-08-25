@@ -17,8 +17,8 @@ I'm a Computer Engineering student out of Toronto, Ontario, currently studying a
 <br/>
 
 
-<p align="center">  <a href="https://linkedin.com/in/atassih" target="blank"><img src="https://img.icons8.com/fluency/344/email-open.png" height="30" /></a>
+<p align="center">  <a href="mailto: atassi.hakam@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/344/email-open.png" height="30" /></a>
   <a href="www.hakamatassi.com" target="blank"><img src="https://img.icons8.com/external-nawicon-outline-color-nawicon/344/external-portfolio-seo-and-marketing-nawicon-outline-color-nawicon.png" height="30" /></a>  
- <a href="mailto: atassih@mcmaster.ca" target="blank"><img src="https://img.icons8.com/color/344/linkedin-2--v1.png" height="30" /></a></p>
+ <a href="https://www.linkedin.com/in/atassih/" target="blank"><img src="https://img.icons8.com/color/344/linkedin-2--v1.png" height="30" /></a></p>
 
 

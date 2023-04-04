@@ -8,9 +8,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-I'm a Computer Engineering student out of Toronto, Ontario, currently studying at McMaster University. I'm highly interested in academia and spend much of my time reading textbooks on content I find interesting. Many of my repositories consist of projects I've built using knowledge from the various textbooks I've picked up over the years. For examples, take a look at my pinned repositories! 
-
-
 
 <hr />
 
